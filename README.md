@@ -1,2 +1,2 @@
 # restoapp
-Primeros proyectos con React Native
+React Native App
